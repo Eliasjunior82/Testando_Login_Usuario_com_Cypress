@@ -1,0 +1,24 @@
+[
+    {
+        "email": "junior@gmail.com",
+        "fullName": "Elias josé",
+        "userName": "junior",
+        "passWord": "12345678"  
+
+    },
+    {
+        "email": "elias@gmail.com",
+        "fullName": "josé silva",
+        "userName": "junior",
+        "passWord": "12345678"  
+
+
+    },
+    {
+        "email": "jose@gmail.com",
+        "fullName": "jose da silva",
+        "userName": "junior",
+        "passWord": "12345678"  
+
+    }
+]
